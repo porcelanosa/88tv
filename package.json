@@ -26,7 +26,8 @@
     "run-sequence": "^2.2.1",
     "ssri": "^6.0.0",
     "strip-json-comments": "^2.0.1",
-    "travis-after-all": "^1.4.5"
+    "travis-after-all": "^1.4.5",
+    "vuepress": "^0.14.4"
   },
   "engines": {
     "node": ">=6",
